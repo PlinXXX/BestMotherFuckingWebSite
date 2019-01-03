@@ -264,7 +264,7 @@ span.sv {
 
 span.foufoufou {
 	color: #444;
-	font-weight: 700
+	font-weight: 700;
 }
 
 span.foufoufou:before {
@@ -274,12 +274,12 @@ span.foufoufou:before {
 	height: 1em;
 	margin-left: .2em;
 	margin-right: .2em;
-	background-color: #444
+	background-color: #444;
 }
 
 span.foufivfoufivfoufiv {
 	color: #454545;
-	font-weight: 700
+	font-weight: 700;
 }
 
 span.foufivfoufivfoufiv:before {
@@ -289,25 +289,25 @@ span.foufivfoufivfoufiv:before {
 	height: 1em;
 	margin-left: .2em;
 	margin-right: .2em;
-	background-color: #454545
+	background-color: #454545;
 }
 
 span.mfw {
-	color: #730000
+	color: #730000;
 }
 
 a.kopimi,
 a.kopimi img.kopimi {
 	display: block;
 	margin-left: auto;
-	margin-right: auto
+	margin-right: auto;
 }
 
 a.kopimi img.kopimi {
-	height: 2em
+	height: 2em;
 }
 
 p.fakepre {
 	font-family: monospace;
-	font-size: .9em
+	font-size: .9em;
 }
